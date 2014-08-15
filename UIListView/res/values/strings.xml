@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Weekday Fitness app</string>
+	<string-array name="Days">
+		<item>Monday</item>
+		<item>Tuesday</item>
+		<item>Wednesday</item>
+		<item>Thursday</item>
+		<item>Friday</item>
+		<item>Saturday</item>
+		<item>Sunday</item>
+		<item>Motivation</item>
+	</string-array>
+	<string name="Days_prompt">Pick a Day. Any Day.</string>
+</resources>
